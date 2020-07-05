@@ -4,8 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 
 
 ## Live links (replace with your own)
-- Leaflet Map https://devannkirkptrick.github.io/Working-SCAtlas/
-- Google Sheets template https://docs.google.com/spreadsheets/d/17hCM35S2NNP7_EeOAR0l1Y1WtNonBhRhlCQJWNExibE/edit#gid=0
+- Leaflet Map https://devannkirkptrick.github.io/Meridies/
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-maps-with-google-sheets.html
